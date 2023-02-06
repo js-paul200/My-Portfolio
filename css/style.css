@@ -837,7 +837,7 @@ bottom: 7.5rem;
 
 
 /*=============== MEDIA QUERIES ===============*/
-/* For small devices */
+/* For small devices like phone */
  
 @media screen and (max-width: 340px){
 .container{
@@ -858,7 +858,7 @@ justify-self: center;
 }
 }
 
-/* For medium devices */
+/* For medium devices like tablets */
 @media screen and (min-width: 576px) {
 .nav,
 .nav-menu{
@@ -928,7 +928,7 @@ column-gap: 8rem;
 }
 
 
-/* For large devices */
+/* For larger devices like desktop */
 @media screen and (min-width: 1023px) {
 .header{
 top: 0;
